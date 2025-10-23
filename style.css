@@ -1,0 +1,28 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  scroll-behavior: smooth;
+}
+
+.titulo {
+  font-family: 'Cinzel', serif;
+  color: #640c97;
+}
+
+.navbar-brand.titulo {
+  font-size: 1.6rem;
+  color: #ac8430 !important;
+}
+
+section p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+footer {
+  font-size: 0.9rem;
+  background-color: #001f3f;
+}
+
+#inicio {
+  text-shadow: 2px 2px 5px rgba(139, 14, 14, 0.7);
+}
